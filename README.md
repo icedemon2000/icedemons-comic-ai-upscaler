@@ -1,7 +1,7 @@
 <!-- github-publisher:start -->
 # IceDemon's Comic AI Upscaler
 
-**Latest release:** v1.8.4
+**Latest release:** v1.9.6
 
 [Download the latest release](https://github.com/icedemon2000/icedemons-comic-ai-upscaler/releases/latest)
 
